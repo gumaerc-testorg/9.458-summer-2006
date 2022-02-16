@@ -15,8 +15,13 @@ description: Almost 200 years after James Parkinson (1817) first reported the di
   also been shown to impair cognitive performance in PD (e.g., Cools et al., 2006),
   which may result from the selective over-dosing of neural regions that are relatively
   unaffected in PD.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-458-parkinsons-disease-workshop-summer-2006/190c4650766bc75a8d61acbd479f3be6_cognition.pdf
+file: /media/courses/9-458-parkinsons-disease-workshop-summer-2006/190c4650766bc75a8d61acbd479f3be6_cognition.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: cognition.pdf
 uid: 190c4650-766b-c75a-8d61-acbd479f3be6
