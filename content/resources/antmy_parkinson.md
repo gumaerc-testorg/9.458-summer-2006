@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c2b1ef22-ff04-704a-753c-dacd507791e0
 resourcetype: Document
 title: antmy_parkinson.pdf
 uid: a3ef39b0-6829-ed69-1024-95395d4a979c

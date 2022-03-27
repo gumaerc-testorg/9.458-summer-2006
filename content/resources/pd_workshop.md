@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c2b1ef22-ff04-704a-753c-dacd507791e0
 resourcetype: Document
 title: pd_workshop.pdf
 uid: 229d665c-9811-05f2-8030-8ac312daa898

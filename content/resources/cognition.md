@@ -22,6 +22,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c2b1ef22-ff04-704a-753c-dacd507791e0
 resourcetype: Document
 title: cognition.pdf
 uid: 190c4650-766b-c75a-8d61-acbd479f3be6

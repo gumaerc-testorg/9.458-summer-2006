@@ -23,6 +23,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c2b1ef22-ff04-704a-753c-dacd507791e0
 resourcetype: Document
 title: cogcontrol.pdf
 uid: 9f57ff6a-ce38-9e24-91a9-749cc8a9d7ea

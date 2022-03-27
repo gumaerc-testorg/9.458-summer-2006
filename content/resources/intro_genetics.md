@@ -28,6 +28,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c2b1ef22-ff04-704a-753c-dacd507791e0
 resourcetype: Document
 title: intro_genetics.pdf
 uid: c2ea109f-36bd-f009-5cc7-b66861423efa
