@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the journal articles and textbook selections for each
+  lecture session listed as per the course schedule.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Readings
 uid: 3f48be33-1572-770c-07b1-8cdf301357d5
 ---
 
-The following readings are cited in the [lecture notes]({{< baseurl >}}/pages/lecture-notes), or are otherwise associated with a given topic.
+The following readings are cited in the {{% resource_link c2b1ef22-ff04-704a-753c-dacd507791e0 "lecture notes" %}}, or are otherwise associated with a given topic.
 
 {{< tableopen >}}
 {{< theadopen >}}
