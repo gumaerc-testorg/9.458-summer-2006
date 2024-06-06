@@ -4,6 +4,7 @@ description: This resource contains topics such as relational memory vs. item me
   recollection vs. familiarity, recall vs. recognition, R-K paradigm and associative
   learning.
 file: /courses/9-458-parkinsons-disease-workshop-summer-2006/229d665c981105f280308ac312daa898_pd_workshop.pdf
+file_size: 684268
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
