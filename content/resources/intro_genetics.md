@@ -22,6 +22,7 @@ description: 'Parkinson''s disease (PD) has long been considered to be a sporadi
   PD may represent a more heterogeneous balance of genetic predisposition and environmental
   exposure.'
 file: /courses/9-458-parkinsons-disease-workshop-summer-2006/c2ea109f36bdf0095cc7b66861423efa_intro_genetics.pdf
+file_size: 2234910
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
