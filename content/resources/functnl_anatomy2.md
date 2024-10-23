@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information on topics such as functional anatomy
   of the basal ganglia, overview of basal ganglia and thalamus, and midbrain dopamine
   inputs.
-file: /courses/9-458-parkinsons-disease-workshop-summer-2006/29c737bab58b797410e2b70d094a7089_functnl_anatomy2.pdf
+file: /ol-ocw-studio-app/courses/9-458-parkinsons-disease-workshop-summer-2006/29c737bab58b797410e2b70d094a7089_functnl_anatomy2.pdf
 file_size: 1424695
 file_type: application/pdf
 learning_resource_types:
