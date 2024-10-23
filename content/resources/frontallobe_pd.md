@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information on topics such as reversal learning
   in parkinson's disease depends on medcaton status and outcome valence and DA depletions
   in PD.
-file: /courses/9-458-parkinsons-disease-workshop-summer-2006/ef7863fb20ee1e5a4b7fbb17caf4d760_frontallobe_pd.pdf
+file: /ol-ocw-studio-app/courses/9-458-parkinsons-disease-workshop-summer-2006/ef7863fb20ee1e5a4b7fbb17caf4d760_frontallobe_pd.pdf
 file_size: 736875
 file_type: application/pdf
 learning_resource_types:
