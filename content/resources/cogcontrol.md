@@ -16,7 +16,7 @@ description: 'Early stage idiopathic Parkinson''s disease (PD) is characterized 
   are similar, but not identical, to ones observed with frontal lobe damage (Owen
   et al., 1992). This set of slides describes the executive deficits after frontal
   lobe lesions, and then compares them to the executive deficits seen in PD.'
-file: /ol-ocw-studio-app/courses/9-458-parkinsons-disease-workshop-summer-2006/9f57ff6ace389e2491a9749cc8a9d7ea_cogcontrol.pdf
+file: /courses/9-458-parkinsons-disease-workshop-summer-2006/9f57ff6ace389e2491a9749cc8a9d7ea_cogcontrol.pdf
 file_size: 661906
 file_type: application/pdf
 learning_resource_types:
