@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource provides information on topics such as substantia nigra:
   inversion recovery, and substantia inominata.'
-file: /ol-ocw-studio-app/courses/9-458-parkinsons-disease-workshop-summer-2006/a3ef39b06829ed69102495395d4a979c_antmy_parkinson.pdf
+file: /courses/9-458-parkinsons-disease-workshop-summer-2006/a3ef39b06829ed69102495395d4a979c_antmy_parkinson.pdf
 file_size: 187897
 file_type: application/pdf
 learning_resource_types:
